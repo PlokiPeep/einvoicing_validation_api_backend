@@ -1,5 +1,9 @@
 # SENG2021 23T1 CHURROS E-Invoicing Validation API
 
+This was a group project in 2023 - where a team of 5 software students built a software engineering project. 
+
+Please note our team won the grand prize of $2000 Macquarie Software Engineering prize for this project. 
+
 In order to run the server, we must
 - be running a Postgres database server with a database named "validation"
 - be inside a python3 virtual environment
